@@ -2,6 +2,8 @@
 
 ProcessWire module for managing the `robots.txt` file through the admin UI — no FTP or command line required.
 
+If this project helps your work, consider supporting future development: [GitHub Sponsors](https://github.com/sponsors/mxmsmnv) or [smnv.org/sponsor](https://smnv.org/sponsor/).  
+
 ## Requirements
 
 - PHP 8.2+
