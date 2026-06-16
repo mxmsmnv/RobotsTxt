@@ -6,7 +6,7 @@
  * Manage robots.txt file through the admin UI.
  * Includes a visual editor, preset rules library, and parsed rules viewer.
  *
- * @author  Maxim Alex <maxim@smnv.org>
+ * @author  Maxim Semenov <maxim@smnv.org> (smnv.org)
  * @version 1.0.0
  */
 
@@ -19,7 +19,8 @@ class RobotsTxt extends Process implements Module {
 			'title'      => 'RobotsTxt',
 			'summary'    => 'Manage robots.txt file through the admin UI with presets and visual editor.',
 			'version'    => 100,
-			'author'     => 'Maxim Alex',
+			'author'     => 'Maxim Semenov',
+			'href'     => 'https://smnv.org',
 			'icon'       => 'cog',
 			'requires'   => ['ProcessWire>=3.0.200', 'PHP>=8.2'],
 			'permission' => 'robots-manager',

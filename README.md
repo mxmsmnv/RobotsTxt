@@ -2,6 +2,10 @@
 
 ProcessWire module for managing the `robots.txt` file through the admin UI — no FTP or command line required.
 
+**Author:** Maxim Semenov  
+**Website:** [smnv.org](https://smnv.org)  
+**Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
+
 If this project helps your work, consider supporting future development: [GitHub Sponsors](https://github.com/sponsors/mxmsmnv) or [smnv.org/sponsor](https://smnv.org/sponsor/).  
 
 ## Requirements
@@ -74,4 +78,4 @@ MIT License. Free to use in personal and commercial projects.
 
 ## Author
 
-Maxim Alex — [smnv.org](https://smnv.org) · maxim@smnv.org
+Maxim Semenov — [smnv.org](https://smnv.org) · maxim@smnv.org
