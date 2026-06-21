@@ -2,6 +2,8 @@
 
 ProcessWire module for managing the `robots.txt` file through the admin UI — no FTP or command line required.
 
+![RobotsTxt](assets/RobotsTxt.png)
+
 **Author:** Maxim Semenov  
 **Website:** [smnv.org](https://smnv.org)  
 **Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
